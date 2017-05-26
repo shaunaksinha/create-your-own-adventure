@@ -6,3 +6,5 @@ What do you ask him?
 or
 
 [What made you want to leave the Resistance?](starwars7/duh.md)
+
+Is the Force really that strong with you?
